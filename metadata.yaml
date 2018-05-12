@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '37477'
     url: http://www.gutenberg.org/2009/agents/37477
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35118#The-Postnatal-Development-of-Two-Broods-of-Great-Horned-Owls--Bubo-virginianus-
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Birds
