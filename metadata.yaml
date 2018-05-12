@@ -1,0 +1,31 @@
+_repo: The-Postnatal-Development-of-Two-Broods-of-Great-Horned-Owls--Bubo-virginianus-_35118
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Setzer, Henry W.
+    gutenberg_agent_id: '37478'
+    url: http://www.gutenberg.org/2009/agents/37478
+  - agent_name: Hoffmeister, Donald Frederick
+    birthdate: 1916
+    gutenberg_agent_id: '37477'
+    url: http://www.gutenberg.org/2009/agents/37477
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Birds
+gutenberg_issued: '2011-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35118'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Owls'
+title: The Postnatal Development of Two Broods of Great Horned Owls (Bubo virginianus)
+url: http://www.gutenberg.org/ebooks/35118
